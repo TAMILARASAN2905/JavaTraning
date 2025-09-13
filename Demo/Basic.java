@@ -7,6 +7,6 @@ public class Basic {
         }
 
         public static String mainMethod () {
-            return "Kumar";
+            return "tamil";
         }
 }
